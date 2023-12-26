@@ -1,0 +1,7 @@
+age. Edad del beneficiario principal (numérico)
+sex. Género del beneficiario principal (categórico)
+bmi. Indice de masa corporal (numérico)
+children. Número de niños/dependientes cubiertos por el seguro de salud (numérico)
+smoker. ¿Es fumador? (categórico)
+region. Área residencial del beneficiario en USA: noreste, sureste, suroeste, noroeste (categórico)
+charges. Prima del seguro médico (numérico)
